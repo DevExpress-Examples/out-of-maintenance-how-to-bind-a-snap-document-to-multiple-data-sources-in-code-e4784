@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Multiple_XPCollection_Datasources/Form1.cs) (VB: [Form1.vb](./VB/Multiple_XPCollection_Datasources/Form1.vb))
+* [XPOClasses.cs](./CS/Multiple_XPCollection_Datasources/XPOClasses.cs) (VB: [XPOClasses.vb](./VB/Multiple_XPCollection_Datasources/XPOClasses.vb))
+<!-- default file list end -->
 # How to bind a Snap document to multiple data sources in code
 
 
