@@ -12,7 +12,9 @@
 <!-- default file list end -->
 # How to Bind a Snap Document to Multiple Data Dources in Code
 
-> Snap for WinForms is currently in maintenance support mode. As such, no new features/capabilities will be incorporated into this product.
+> **Note**
+>
+> As you may already know, the [WinForms Snap control](https://docs.devexpress.com/WindowsForms/11373/controls-and-libraries/snap) and [Snap Report API](https://docs.devexpress.com/OfficeFileAPI/15188/snap-report-api) are now in maintenance support mode. No new features or capabilities are incorporated into these products. We recommend that you use [DevExpress Reporting](https://docs.devexpress.com/XtraReports/2162/reporting) tool to generate, edit, print, and export your business reports/documents.
 
 <p>This example illustrates how you can bind a Snap document to multiple data sources:</p>
 
